@@ -12,3 +12,7 @@ print("its my new victory")
 y=method2(23,70)
 print(f"subtraction between two nums is : {y}")
 print("this will comes on subtraction branch")
+def method3(a,b):
+    multi=a*b
+    print(f"multiplication off given two numbers is : {multi}")
+method3(100,344)
