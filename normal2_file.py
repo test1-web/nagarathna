@@ -16,3 +16,7 @@ def method3(a,b):
     multi=a*b
     print(f"multiplication off given two numbers is : {multi}")
 method3(100,344)
+def method4(a):
+    if a%2==0:
+        print("given num is even num")
+method4(30)
